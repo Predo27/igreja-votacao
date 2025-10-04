@@ -6,7 +6,7 @@ app = Flask(__name__)
 membros = {
     "artur": "16ar",
     "mateus": "17ma",
-    "ana": "senha1",
+    "paula": "16pa",
     "paulo": "4321"
 }
 
@@ -235,3 +235,4 @@ def resultado():
 if __name__ == "__main__":
     print("Sistema de votação iniciado! Acesse via navegador na mesma rede Wi-Fi.")
     app.run(host="0.0.0.0", port=5000, debug=True)
+
