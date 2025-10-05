@@ -7,7 +7,7 @@ membros = {
     "artur": "16ar",
     "mateus": "17ma",
     "paula": "16pa",
-    "paulo": "4321"
+    "calebe": "16ca"
 }
 
 # --- Propostas em votação ---
@@ -235,4 +235,5 @@ def resultado():
 if __name__ == "__main__":
     print("Sistema de votação iniciado! Acesse via navegador na mesma rede Wi-Fi.")
     app.run(host="0.0.0.0", port=5000, debug=True)
+
 
