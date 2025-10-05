@@ -1,2 +1,2 @@
-# igreja-votacao
-código para trabalho de pdm
+# igreja-votação
+Código para trabalho de programação para dispositivos móveis
